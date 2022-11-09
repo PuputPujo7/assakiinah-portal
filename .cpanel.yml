@@ -2,6 +2,5 @@
 deployment:
 - export DEPLOYPATH=/home/n1604621/public_html
 - /bin/cp index.html $DEPLOYPATH
-- /bin/cp route.php $DEPLOYPATH
 - /bin/cp style.css $DEPLOYPATH
 - /bin/cp -R img $DEPLOYPATH
