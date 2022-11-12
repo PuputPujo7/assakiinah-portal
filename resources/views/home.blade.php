@@ -3,6 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portal Website As_Sakiinah Store</title>
+    <link rel="shortcut icon" href="logotoko.png" type="logotoko.png">
     <!-- <link rel="shortcut icon" href="img/ptsp.png" type="image/png"> -->
     <style data-tippy-stylesheet="">.tippy-box[data-animation=fade][data-state=hidden]{opacity:0}[data-tippy-root]{max-width:calc(100vw - 10px)}.tippy-box{position:relative;background-color:#333;color:#fff;border-radius:4px;font-size:14px;line-height:1.4;white-space:normal;outline:0;transition-property:transform,visibility,opacity}.tippy-box[data-placement^=top]>.tippy-arrow{bottom:0}.tippy-box[data-placement^=top]>.tippy-arrow:before{bottom:-7px;left:0;border-width:8px 8px 0;border-top-color:initial;transform-origin:center top}.tippy-box[data-placement^=bottom]>.tippy-arrow{top:0}.tippy-box[data-placement^=bottom]>.tippy-arrow:before{top:-7px;left:0;border-width:0 8px 8px;border-bottom-color:initial;transform-origin:center bottom}.tippy-box[data-placement^=left]>.tippy-arrow{right:0}.tippy-box[data-placement^=left]>.tippy-arrow:before{border-width:8px 0 8px 8px;border-left-color:initial;right:-7px;transform-origin:center left}.tippy-box[data-placement^=right]>.tippy-arrow{left:0}.tippy-box[data-placement^=right]>.tippy-arrow:before{left:-7px;border-width:8px 8px 8px 0;border-right-color:initial;transform-origin:center right}.tippy-box[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-arrow{width:16px;height:16px;color:#333}.tippy-arrow:before{content:"";position:absolute;border-color:transparent;border-style:solid}.tippy-content{position:relative;padding:5px 9px;z-index:1}</style><link rel="shortcut icon" href="logotoko.png">
     <link rel="stylesheet" href="https://demos.creative-tim.com/notus-js/assets/styles/tailwind.css">
@@ -91,10 +92,6 @@
         <div class="relative pt-16 pb-32 flex content-center items-center justify-center min-h-screen-10">
             <div class="absolute top-0 w-full h-full bg-center bg-cover" style="
             background-image: url(https://source.unsplash.com/featured/?market);background-size:cover;">
-            <span>
-                Source Picture : https://unsplash.com
-                Update per Refresh page
-            </span>
                 {{-- <span id="blackOverlay" class="w-full h-full absolute opacity-75 bg-black"></span> --}}
             </div>
             <div class="container relative mx-auto">
@@ -1092,6 +1089,9 @@
                     }
                 </script>
             </div></section>
+            <span class="flex-wrap sm:text-center mb-1">
+                Background Picture Update per Refresh page, Source : <a href="https://unsplash.com" class="text-blue-600 mb-1"> https://unsplash.com </a>
+            </span>
     </section>
 
 
