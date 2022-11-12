@@ -809,6 +809,12 @@
                     </div>
                 </div> --}}
 
+                <div class="kotak rounded">
+                    <h3 class="flex text-center">Sedang dalam tahap testing!!!</h3>
+                </div>
+
+                <!-- at the end of the body -->
+                <script type="text/javascript" src="vanilla-tilt.min.js"></script>
 
                 <footer class="relative  pt-6 pb-6 mt-1">
                     <div class="container mx-auto px-4">

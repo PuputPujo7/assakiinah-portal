@@ -71,7 +71,7 @@
 				<div class="col-md-12 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc animate-box">
-							<nav class="fh5co-nav" role="navigation">
+							<nav class="fh5co-nav mt-2" role="navigation">
 								<img src="logotoko.png" alt="" style="width: 50px">
 								<div id="fh5co-logo"><a href="/preview">As-Sakiinah Store<strong></strong></a></div>
 							</nav>
