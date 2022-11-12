@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://asskiinahstore.com'),
+    'url' => env('APP_URL', 'https://asskiinahstore.com'),
 
     'asset_url' => env('ASSET_URL'),
 
